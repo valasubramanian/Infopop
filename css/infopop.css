@@ -90,7 +90,7 @@ table tbody tr.activedata td.sib-infopop-custom.sib-infopop-nodata:hover
   position: fixed;
 }
 .sib-infopop-custom.sib-infopop-mobileview .sib-infopop-modal .sib-infopop-arrow {
-  background-image: url("/img/close_blue24.png");
+  background-image: url("/images/close_blue24.png");
   background-position: right center;
   height: 24px;
   top: -10px;
